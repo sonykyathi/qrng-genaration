@@ -1,0 +1,8 @@
+Django>=5.2,<5.3
+channels>=4.2,<5
+django-cors-headers>=4.7,<5
+djangorestframework>=3.16,<4
+djangorestframework-simplejwt>=5.5,<6
+gunicorn>=23,<26
+mnemonic>=0.21,<1
+whitenoise>=6.9,<7
